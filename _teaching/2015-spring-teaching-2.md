@@ -8,8 +8,6 @@ date: 2014-01-01
 location: "[City], [Country]"
 ---
 
-## Scientific Communication
-
 Workshop on scientific communication, focusing on how to communicate research findings clearly and effectively to both specialist and non-specialist audiences.
 
 ### Topics covered
