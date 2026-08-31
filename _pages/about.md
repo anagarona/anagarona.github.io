@@ -34,7 +34,7 @@ Publications
 
 My research has been published in leading journals across cell biology, genetics, microbiology, and evolutionary biology. I am the first author on 4 peer-reviewed papers and author on 1 additional paper. 
 
-See my publications or visit my ORCID profile for a complete list.
+See my [Publications](/publications/) or visit my ORCID profile for a complete list.
 
 Research approach
 
