@@ -12,6 +12,11 @@ author_profile: true
 **Proceedings of the National Academy of Sciences**, 123(24), e2531280123.
 [DOI](https://doi.org/10.1073/pnas.2531280123)
 
+**Garoña, A.**, Santer, M., Hülter, N. F., Uecker, H. & Dagan, T. (2023).  
+*Segregational drift hinders the evolution of antibiotic resistance on polyploid replicons.*  
+**PLOS Genetics**, 19(8), e1010829.  
+[DOI](https://doi.org/10.1371/journal.pgen.1010829)
+
 **Garoña, A.**, Hülter, N. F., Romero-Picazo, D. & Dagan, T. (2021).  
 *Segregational drift constrains the evolutionary rate of prokaryotic plasmids.*  
 **Molecular Biology and Evolution**, 38, 5610–5624.  
