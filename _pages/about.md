@@ -13,7 +13,7 @@ I am a molecular and cell biologist with 9+ years of research experience spannin
 
 I am interested in understanding how biological systems adapt and evolve, and in connecting genetic changes to quantitative cellular and population-level phenotypes.
 
-Research
+Research [CV](/cv/)
 
 My research has addressed questions across cell biology, genetics, genomics, and microbial evolution.
 
@@ -52,4 +52,4 @@ I am currently based in Spain.
 
 For scientific opportunities or other enquiries, please get in touch at anagarona001@gmail.com.
 
-You can also find me on ORCID and LinkedIn.
+You can also find me on [ORCID](https://orcid.org/0000-0002-7300-5836) and [LinkedIn](https://www.linkedin.com/in/ana-garo%C3%B1a-delgado-a00827215/).
