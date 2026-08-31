@@ -9,8 +9,6 @@ redirect_from:
 
 Molecular and Cell Biologist | Quantitative Biological Research
 
-# Molecular and Cell Biologist | Quantitative Biological Research
-
 I am a **molecular and cell biologist** with **9+ years of research experience** spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. My research combines **experimental biology with quantitative and computational approaches**, including genomic data analysis in **Python and R**.
 
 I am interested in understanding **how biological systems adapt and evolve**, and in connecting genetic changes to **quantitative cellular and population-level phenotypes**.
