@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Scientific Communication and Writing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+type: "Master's-level module"
+permalink: /teaching/scientific-communication-writing/
+venue: "Master's-level teaching"
+date: 2025-01-01
+location: "Lisbon, Portugal"
+----------------------------
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Coordinated and lectured in a Master's-level module on **Scientific Communication and Writing**, supporting students in developing clear, rigorous and persuasive scientific communication.
 
-Heading 1
-======
+### Teaching and training
 
-Heading 2
-======
-
-Heading 3
-======
+* Taught principles of scientific writing, including structure, clarity, argumentation and effective presentation of scientific results.
+* Guided students in editing and improving scientific texts.
+* Trained students to communicate scientific ideas clearly to both specialist and non-specialist audiences.
+* Supported students in developing effective scientific presentations.
