@@ -1,18 +1,30 @@
 ---
-title: "Scientific Communication and Writing"
+title: "Scientific Communication"
 collection: teaching
-type: "Master's-level module"
-permalink: /teaching/scientific-communication-writing/
-venue: "Master's-level teaching"
-date: 2019-2022
-location: "Kiel, Germany"
-----------------------------
+type: "Workshop"
+permalink: /teaching/scientific-communication
+venue: "Department of [Department Name], [University Name]"
+date: 2014-01-01
+location: "[City], [Country]"
+---
 
-Coordinated and lectured in a Master's-level module on **Scientific Communication and Writing**, supporting students in developing clear, rigorous and persuasive scientific communication.
+## Scientific Communication
 
-### Teaching and training
+Workshop on scientific communication, focusing on how to communicate research findings clearly and effectively to both specialist and non-specialist audiences.
 
-* Taught principles of scientific writing, including structure, clarity, argumentation and effective presentation of scientific results.
-* Guided students in editing and improving scientific texts.
-* Trained students to communicate scientific ideas clearly to both specialist and non-specialist audiences.
-* Supported students in developing effective scientific presentations.
+### Topics covered
+
+- Structuring and presenting scientific arguments
+- Communicating complex scientific ideas clearly
+- Designing effective scientific presentations
+- Writing abstracts and research summaries
+- Communicating research to broader audiences
+- Principles of effective scientific visualization
+
+### Role
+
+[Add a brief description of your role here, e.g. *Instructor*, *Workshop facilitator*, or *Teaching assistant*.]
+
+### Materials
+
+[Add links to slides, course materials, or other resources here if available.]
