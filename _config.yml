@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Ana Garoña Delgado"
 title_separator          : "-"
 name                     : &name "Ana Garoña Delgado"
-description              : &description "personal description"
-url                      : https://anagarona.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Molecular and computational biologist working at the intersection of genomics, cell biology and quantitative biology."
+url                      : "https://anagarona.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anagarona/anagarona.github.io"
 
@@ -24,10 +24,9 @@ author:
   avatar           : "Profile_pic.jpg"
   name             : "Ana Garoña Delgado, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher"
-  location         : "Lisbon, Portugal"
-  employer         : "GIMM/Former IGC 
-  Institute Gulbenkian"
+  bio              : "Molecular & Computational biologist | Genomics · Evolution · Cell Biology"
+  location         : "Spain"
+  employer         : 
   uri              : # URL
   email            : "anagarona001@gmail.com" 
 
@@ -50,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
