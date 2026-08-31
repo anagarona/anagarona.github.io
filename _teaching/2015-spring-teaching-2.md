@@ -4,8 +4,8 @@ collection: teaching
 type: "Master's-level module"
 permalink: /teaching/scientific-communication-writing/
 venue: "Master's-level teaching"
-date: 2025-01-01
-location: "Lisbon, Portugal"
+date: 2019-2022
+location: "Kiel, Germany"
 ----------------------------
 
 Coordinated and lectured in a Master's-level module on **Scientific Communication and Writing**, supporting students in developing clear, rigorous and persuasive scientific communication.
