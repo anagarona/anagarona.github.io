@@ -10,6 +10,7 @@ author_profile: true
 **Garoña, A.**, Lemos, M. V., Giometto, A. & Fumasoni, M. (2026).  
 *Experimental evolution of cellular miniaturization reveals a putative mechanism for cell size evolution.*  
 **Proceedings of the National Academy of Sciences**, 123(24), e2531280123.
+[DOI](https://doi.org/10.1073/pnas.2531280123)
 
 **Garoña, A.**, Hülter, N. F., Romero-Picazo, D. & Dagan, T. (2021).  
 *Segregational drift constrains the evolutionary rate of prokaryotic plasmids.*  
