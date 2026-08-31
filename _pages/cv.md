@@ -62,11 +62,6 @@ University of the Basque Country (UPV/EHU), Spain
 
 **Languages:** Spanish, English, Basque; Portuguese (B2); French (B1)
 
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 # Scientific Communication & Leadership
 
