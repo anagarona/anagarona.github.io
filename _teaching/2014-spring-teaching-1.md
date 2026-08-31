@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+Coordinated and lectured in a Master's-level module on Scientific Communication and Writing, supporting students in developing clear, rigorous and persuasive scientific communication.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching and training
+Taught principles of scientific writing, including structure, clarity, argumentation and effective presentation of scientific results.
+Guided students in editing and improving scientific texts.
+Trained students to communicate scientific ideas clearly to both specialist and non-specialist audiences.
+Supported students in developing effective scientific presentations.
