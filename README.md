@@ -1,2 +1,2 @@
 # My personal profile 
-**Academic Pages is a Github Pages template for academic websites.**
+**Here you can find my Curriculum vitae, project and professional experience.
