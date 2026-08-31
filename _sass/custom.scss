@@ -1,0 +1,207 @@
+---
+---
+
+/*
+ * Custom styling
+ * Cream / beige academic theme
+ */
+
+/* ================================
+   COLOUR PALETTE
+   ================================ */
+
+$cream: #f7f3eb;
+$cream-light: #fbf9f5;
+$beige: #e9dfcf;
+$beige-dark: #d6c7b3;
+
+$text: #33302c;
+$text-light: #625d55;
+
+$accent: #7a5c43;
+$accent-hover: #5f4532;
+
+
+/* ================================
+   GENERAL PAGE
+   ================================ */
+
+body {
+  background-color: $cream;
+  color: $text;
+}
+
+
+/* ================================
+   MAIN CONTENT
+   ================================ */
+
+.page {
+  background-color: $cream;
+}
+
+.archive {
+  background-color: $cream;
+}
+
+
+/* ================================
+   LINKS
+   ================================ */
+
+a {
+  color: $accent;
+}
+
+a:hover {
+  color: $accent-hover;
+}
+
+
+/* ================================
+   HEADINGS
+   ================================ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $text;
+}
+
+
+/* ================================
+   NAVIGATION / HEADER
+   ================================ */
+
+.masthead {
+  background-color: $cream-light;
+  border-bottom: 1px solid $beige-dark;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  color: $text;
+}
+
+.greedy-nav a:hover {
+  color: $accent;
+}
+
+
+/* ================================
+   SIDEBAR
+   ================================ */
+
+.sidebar {
+  background-color: $cream;
+}
+
+.author__name {
+  color: $text;
+}
+
+.author__bio {
+  color: $text-light;
+}
+
+
+/* ================================
+   FOOTER
+   ================================ */
+
+.page__footer {
+  background-color: $beige;
+  color: $text-light;
+}
+
+.page__footer a {
+  color: $accent;
+}
+
+
+/* ================================
+   BUTTONS
+   ================================ */
+
+.btn {
+  background-color: $accent;
+  color: white;
+  border: none;
+}
+
+.btn:hover {
+  background-color: $accent-hover;
+}
+
+
+/* ================================
+   PUBLICATIONS / ARCHIVE
+   ================================ */
+
+.archive__item-title a {
+  color: $text;
+}
+
+.archive__item-title a:hover {
+  color: $accent;
+}
+
+.archive__item-excerpt {
+  color: $text-light;
+}
+
+
+/* ================================
+   HORIZONTAL LINES
+   ================================ */
+
+hr {
+  border-top: 1px solid $beige-dark;
+}
+
+
+/* ================================
+   TABLES
+   ================================ */
+
+table {
+  background-color: $cream-light;
+}
+
+thead {
+  background-color: $beige;
+}
+
+th {
+  color: $text;
+}
+
+td {
+  border-bottom: 1px solid $beige-dark;
+}
+
+
+/* ================================
+   BLOCKQUOTES
+   ================================ */
+
+blockquote {
+  border-left: 4px solid $beige-dark;
+  color: $text-light;
+}
+
+
+/* ================================
+   CODE
+   ================================ */
+
+code {
+  background-color: $beige;
+  color: $text;
+}
