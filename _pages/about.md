@@ -13,7 +13,7 @@ I am a molecular and cell biologist with 9+ years of research experience spannin
 
 I am interested in understanding how biological systems adapt and evolve, and in connecting genetic changes to quantitative cellular and population-level phenotypes.
 
-Research [CV](/cv/)
+[Research](/cv/)
 
 My research has addressed questions across cell biology, genetics, genomics, and microbial evolution.
 
