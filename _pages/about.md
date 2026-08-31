@@ -9,19 +9,15 @@ redirect_from:
 
 Molecular and Cell Biologist | Quantitative Biological Research
 
-I am a molecular and cell biologist with 9+ years of research experience spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. My research combines experimental biology with quantitative and computational approaches, including genomic data analysis in Python and R.
-
-I am interested in understanding how biological systems adapt and evolve, and in connecting genetic changes to quantitative cellular and population-level phenotypes.
-
 # Molecular and Cell Biologist | Quantitative Biological Research
 
 I am a **molecular and cell biologist** with **9+ years of research experience** spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. My research combines **experimental biology with quantitative and computational approaches**, including genomic data analysis in **Python and R**.
 
 I am interested in understanding **how biological systems adapt and evolve**, and in connecting genetic changes to **quantitative cellular and population-level phenotypes**.
 
-[**Research**](/cv/)
+**Research**
 
-My research has addressed questions across **cell biology, genetics, genomics, and microbial evolution**.
+My [research](/cv/) has addressed questions across **cell biology, genetics, genomics, and microbial evolution**.
 
 During my **postdoctoral research** at the **Gulbenkian Institute for Molecular Medicine (GIMM)** in Lisbon, I investigated **cell size adaptation in budding yeast** using experimental evolution, genetic engineering, microscopy, flow cytometry, and genomic analysis. I combined experimental and computational approaches to investigate the **genetic basis of cellular adaptation** and stable changes in cell size.
 
