@@ -75,9 +75,3 @@ University of the Basque Country (UPV/EHU), Spain
 * **Scientific synthesis & grant writing:** Contributed to research funding applications and a patent application, translating project objectives, preliminary data and research findings into clear narratives for non-specialist audiences.
 * **Scientific visualization:** Designed infographic posters and scientific figures for projects across the research group, communicating research to specialist and general audiences.
 * **Public speaking:** Delivered research talks at 7 international conferences, including ASCB, FEMS, SMBE and ISPB, to audiences of 50–500+ people, and presented posters at additional scientific meetings.
-
-# Talks
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
