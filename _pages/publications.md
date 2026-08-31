@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
 
 **Garoña, A.**, Lemos, M. V., Giometto, A. & Fumasoni, M. (2026).  
 *Experimental evolution of cellular miniaturization reveals a putative mechanism for cell size evolution.*  
