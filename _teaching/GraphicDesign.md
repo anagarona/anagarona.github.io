@@ -2,8 +2,6 @@
 title: "Scientific graphic design"
 collection: teaching
 type: "Collection of visual material"
-venue: ""
-date: 
 permalink: /teaching/GraphicDesign
 ---
 
