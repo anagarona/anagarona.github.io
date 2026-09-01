@@ -26,7 +26,7 @@ I enjoy working at the interface between experimental and computational biology.
 
 ## Publications
 
-My research has been published in leading journals across **cell biology, genetics, microbiology, and evolutionary biology**. I am the **first author on 4 peer-reviewed papers** and author on **1 additional paper**.
+My research has been published in leading journals across cell biology, genetics, microbiology, and evolutionary biology. I am the **first author on 4 peer-reviewed papers** and author on **1 additional paper**.
 
 See my [**Publications**](/publications/) or visit my [**ORCID**](https://orcid.org/0000-0002-7300-5836) profile for a complete list.
 
