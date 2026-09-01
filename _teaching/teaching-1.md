@@ -2,6 +2,7 @@
 title: "Scientific Communication Training"
 collection: teaching
 type: "Master's-level module"
+date: 2021-01-01
 permalink: /teaching/scientific-communication
 venue: "Kiel University"
 ---
