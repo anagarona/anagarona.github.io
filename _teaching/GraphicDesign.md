@@ -21,7 +21,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 Selected scientific posters designed for conferences, research meetings, and academic communication.
 
 
-[![Scientific Poster](/images/poster1.jpg)](/files/poster1.pdf)
+[![Scientific Poster](/images/poster1.jpg)](/files/GroupPublicity.pdf)
 
 Scientific poster designed to communicate research findings clearly and visually.
 
