@@ -23,7 +23,6 @@ Selected scientific posters designed for conferences, research meetings, and aca
 <a href="/files/GroupPublicity.pdf">
   <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="400">
 </a>
-Scientific poster designed to communicate research findings clearly and visually.
 
 [View PDF](/files/GroupPublicity.pdf)
 
@@ -31,7 +30,9 @@ Scientific poster designed to communicate research findings clearly and visually
 
 #### Scientific Infographic
 
-[![Scientific Infographic](/images/infographic1.jpg)](/files/infographic1.pdf)
+<a href="/files/GroupPublicity.pdf">
+  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="200">
+</a>
 
 Infographic designed to explain a complex biological concept in an accessible way.
 
