@@ -30,5 +30,12 @@ Designed a large-format infographic showcasing the different research areas of m
 #### Research Group Visual Identity
 Designed a visual identity banner for the PhD research group, incorporating university colours and branding to create a consistent visual presence across scientific presentations, conferences, and university publicity materials.
 
+<a href="/files/Plasmid1">
+  <img src="/images/Plasmid1.png" alt="Scientific Poster" width="200">
+</a>
+
+#### Scientific Illustration — Plasmid Evolution
+Designed a conceptual illustration to communicate complex evolutionary processes acting on plasmids at both the host-population and intracellular levels. The figure combines diagrams, population-genetic concepts, and explanatory visual elements to make a complex theoretical framework accessible to a broad scientific audience.
+
 ---
 
