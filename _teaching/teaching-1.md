@@ -4,7 +4,8 @@ collection: teaching
 type: "Master's-level module"
 permalink: /teaching/scientific-communication
 venue: "Kiel University"
-date: 2022-2019
+date: 2019-01-01
+period: "2019–2022"
 location: "[City], [Country]"
 ---
 
