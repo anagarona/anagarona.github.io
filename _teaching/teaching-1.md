@@ -4,8 +4,6 @@ collection: teaching
 type: "Master's-level module"
 permalink: /teaching/scientific-communication
 venue: "Kiel University"
-date: 2019-01-01
-location: "2022, [Country]"
 ---
 
 Coordinated and lectured a Master's-level module in scientific communication, focusing on how to communicate research findings clearly and effectively to both specialist and non-specialist audiences.
