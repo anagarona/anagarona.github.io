@@ -20,9 +20,9 @@ My work combines scientific knowledge with principles of graphic design, visual 
 
 Selected scientific posters designed for conferences, research meetings, and academic communication.
 
-
-[![Scientific Poster](/images/GMG_Bioturm.png)](/files/GroupPublicity.pdf)
-
+<a href="/files/GroupPublicity.pdf">
+  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="400">
+</a>
 Scientific poster designed to communicate research findings clearly and visually.
 
 [View PDF](/files/GroupPublicity.pdf)
