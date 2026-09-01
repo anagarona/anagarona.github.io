@@ -29,6 +29,13 @@ Designed a conceptual illustration to communicate complex evolutionary processes
 #### Graphical Abstract — Multicopy Replicon Allele Dynamics
 Designed a graphical abstract to communicate a complex experimental and computational research framework, integrating *in vivo* and *in silico* approaches to study allele dynamics in plasmid and chromosomal replicons.
 
+<a href="/files/cell_cycle">
+  <img src="/images/cell_cycle.png" alt="Scientific Poster" width="200">
+</a>
+
+#### Scientific Illustration — Yeast Cell Cycle
+Illustrated the yeast cell cycle to visually communicate the key stages of cell growth, DNA replication, mitosis, and cell division in a clear and accessible format.
+
 <a href="/files/GroupPublicity.pdf">
   <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="250">
 </a>
