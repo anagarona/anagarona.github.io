@@ -6,8 +6,6 @@ venue: ""
 permalink: /teaching/GraphicDesign
 ---
 
-## Scientific Communication & Visual Design
-
 Alongside my research, I have developed extensive experience in scientific communication and visual design, creating materials that communicate complex scientific concepts clearly and effectively to both specialist and general audiences.
 
 My work combines scientific knowledge with principles of graphic design, visual storytelling, and information design.
