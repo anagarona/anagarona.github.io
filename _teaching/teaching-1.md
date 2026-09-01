@@ -21,5 +21,5 @@ Coordinated and lectured a Master's-level module in scientific communication, fo
 
 ### Role
 
-Coordinator and instructor of the biannual module for 4 consecutive years.
+Coordinator and instructor of the biyearly module for 4 consecutive years.
 
