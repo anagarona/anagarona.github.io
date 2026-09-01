@@ -2,10 +2,11 @@
 title: "International conferences"
 collection: teaching
 type: "Conference talks and presentations"
+date: 2019-01-01
 permalink: /teaching/scientific-communication-presentations
 ---
 
-### Conference talks and presentations
+Delivered research talks at 7 international conferences, including ASCB, FEMS, SMBE and ISPB, to audiences of 50–500+ people, and presented posters at additional scientific meetings.
 
 #### 2025
 
