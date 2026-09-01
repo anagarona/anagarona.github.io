@@ -23,7 +23,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 #### Scientific Illustration — Plasmid Evolution
 Designed a conceptual illustration to communicate complex evolutionary processes acting on plasmids at both the host-population and intracellular levels. The figure combines diagrams, population-genetic concepts, and explanatory visual elements to make a complex theoretical framework accessible to a broad scientific audience.
 
-<a href="/files/Plasmid2">
+<a href="/images/Plasmid2.png">
   <img src="/images/Plasmid2.png" alt="Scientific Poster" width="200">
 </a>
 
