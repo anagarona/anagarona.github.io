@@ -2,7 +2,6 @@
 title: "International conferences"
 collection: teaching
 type: "Conference talks and presentations"
-venue: ""
 permalink: /teaching/scientific-communication-presentations
 ---
 
