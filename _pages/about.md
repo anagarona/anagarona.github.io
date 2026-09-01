@@ -14,17 +14,15 @@ I am a **molecular and cell biologist** with **9+ years of research experience**
 
 My [research](/cv/) has addressed questions across **cell biology, genetics, genomics, and microbial evolution**.
 
-My scientific career has focused on the **genetic basis of adaptation**, from **cell size evolution in budding yeast** during my postdoctoral research at GIMM in Lisbon to **plasmid inheritance and bacterial evolution** during my PhD at Kiel University and the International Max Planck Research School for Evolutionary Biology.
-I enjoy working at the interface between experimental and computational biology. My experience includes genetic engineering and CRISPR, microscopy, flow cytometry, experimental evolution, genomic and NGS data analysis, and quantitative analysis using Python and R.
-
-### Research interests
-
 - **Cellular adaptation and evolution**
 - **Experimental evolution**
 - **Genetics and genomics**
 - **Genotype–phenotype relationships**
 - **Microbial evolution and plasmid biology**
 - **Quantitative and computational biology**
+  
+My scientific career has focused on the **genetic basis of adaptation**, from **cell size evolution in budding yeast** during my postdoctoral research at GIMM in Lisbon to **plasmid inheritance and bacterial evolution** during my PhD at Kiel University and the International Max Planck Research School for Evolutionary Biology.
+I enjoy working at the interface between experimental and computational biology. My experience includes genetic engineering and CRISPR, microscopy, flow cytometry, experimental evolution, genomic and NGS data analysis, and quantitative analysis using Python and R.
 
 ## Publications
 
