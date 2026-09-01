@@ -1,5 +1,5 @@
 ---
-title: "Scientific graphic design"
+title: "Scientific Graphic Design"
 collection: teaching
 type: "Visual science communication"
 permalink: /teaching/GraphicDesign
