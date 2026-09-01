@@ -95,7 +95,8 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid $primary-color;
+      box-shadow: 0 4px 14px rgba(181, 101, 29, 0.3);//border: 1px solid $border-color;
     }
   }
 }
