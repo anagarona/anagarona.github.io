@@ -36,6 +36,13 @@ Designed a graphical abstract to communicate a complex experimental and computat
 #### Scientific Illustration — Yeast Cell Cycle
 Illustrated the yeast cell cycle to visually communicate the key stages of cell growth, DNA replication, mitosis, and cell division in a clear and accessible format.
 
+<a href="/files/evol-small">
+  <img src="/images/evol-small.png" alt="Scientific Poster" width="200">
+</a>
+
+#### Graphical Abstract — Experimental Evolution of Cellular Miniaturization
+Designed a graphical abstract illustrating an experimental evolution framework investigating cell size adaptation. The figure combines experimental design, size-based selection, and serial evolution into a clear visual narrative for scientific communication.
+
 <a href="/files/GroupPublicity.pdf">
   <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="250">
 </a>
