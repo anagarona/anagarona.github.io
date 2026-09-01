@@ -21,3 +21,19 @@ My work combines scientific knowledge with principles of graphic design, visual 
 Selected scientific posters designed for conferences, research meetings, and academic communication.
 
 
+[![Scientific Poster](/images/poster1.jpg)](/files/poster1.pdf)
+
+Scientific poster designed to communicate research findings clearly and visually.
+
+[View PDF](/files/poster1.pdf)
+
+---
+
+#### Scientific Infographic
+
+[![Scientific Infographic](/images/infographic1.jpg)](/files/infographic1.pdf)
+
+Infographic designed to explain a complex biological concept in an accessible way.
+
+[View PDF](/files/infographic1.pdf)
+
