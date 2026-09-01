@@ -12,7 +12,8 @@ redirect_from:
 
 {% include base_path %}
 
-For an overview of my background, please see my CV below or you can download my [CV](/files/CV-AnaGaroña.pdf).
+For an overview of my background, please see my CV below 
+or you can download my [CV](/files/CV-AnaGaroña.pdf).
 
 # Research Experience
 
