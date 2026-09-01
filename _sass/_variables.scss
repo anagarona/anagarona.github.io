@@ -50,29 +50,38 @@ $sidebar-screen-min-width   : 1024px;
 $sidebar-link-max-width     : 250px;
 
 
-
 /*
-   Colors
+   Colors — Warm Palette
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #a08d7c;                    // warm taupe-gray
+$dark-gray                  : mix(#3b2f27, $gray, 60%);    // warm dark brown-gray
+$darker-gray                : mix(#2a1f19, $gray, 75%);    // deep coffee brown
+$light-gray                 : mix(#fff, $gray, 55%);       // warm light gray
+$lighter-gray                : mix(#fff, $gray, 88%);      // near-cream gray
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #faf3e8;   // warm cream
+$background-color           : #faf3e8;   // warm cream (match body)
+$code-background-color      : #f2e8d8;   // slightly deeper cream for code blocks
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #3b2f27;   // warm dark brown (not pure black)
+$border-color                : #e3d5bf;   // soft tan border
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
+$primary-color               : #b5651d;   // burnt terracotta / rust
+$success-color                : #7a9d54;   // warm olive green
+$warning-color                : #d98e04;   // amber
+$danger-color                  : #c1440e;   // brick red
+$info-color                     : #a8763e;   // warm ochre-brown
+
+/* links */
+$link-color                  : #b5651d;                      // terracotta, matches primary
+$link-color-hover            : mix(#000, $link-color, 20%);  // darker rust on hover
+$link-color-visited          : mix(#fff, $link-color, 20%);
+$masthead-link-color         : #3b2f27;                      // dark brown for nav text
+$masthead-link-color-hover   : #b5651d;                       // terracotta on hover
+
+
+
 
 /* brands */
 $behance-color              : #1769FF;
@@ -101,12 +110,7 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+
 
 
 /*
