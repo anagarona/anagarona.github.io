@@ -2,6 +2,7 @@
 title: "Scientific graphic design"
 collection: teaching
 type: "Visual science communication"
+date: 2020-01-01
 permalink: /teaching/GraphicDesign
 ---
 
