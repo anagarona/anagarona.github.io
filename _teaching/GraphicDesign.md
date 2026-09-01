@@ -23,17 +23,12 @@ My work combines scientific knowledge with principles of graphic design, visual 
 #### Research Landscape Infographic
 Designed a large-format infographic showcasing the different research areas of my PhD research group, with QR codes linking each topic to the corresponding scientific publications. The display was installed in the university’s main hall to introduce the group’s research to prospective students.
 
-[View PDF](/files/GroupPublicity.pdf)
-
-#### Scientific posters
-
-Selected scientific posters designed for conferences, research meetings, and academic communication.
-
-<a href="/files/GroupPublicity.pdf">
-  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="250">
+<a href="/files/Banner-Group">
+  <img src="/images/Banner-Group.png" alt="Scientific Poster" width="200">
 </a>
 
-[View PDF](/files/GroupPublicity.pdf)
+#### Research Group Visual Identity
+Designed a visual identity banner for the PhD research group, incorporating university colours and branding to create a consistent visual presence across scientific presentations, conferences, and university publicity materials.
 
 ---
 
