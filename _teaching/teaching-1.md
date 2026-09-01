@@ -1,5 +1,5 @@
 ---
-title: "Scientific Communication"
+title: "Scientific Communication Training"
 collection: teaching
 type: "Master's-level module"
 permalink: /teaching/scientific-communication
