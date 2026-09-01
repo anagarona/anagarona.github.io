@@ -2,6 +2,7 @@
 title: "International conferences"
 collection: teaching
 type: "Conference talks and presentations"
+date: 2022-01-01
 permalink: /teaching/scientific-communication-presentations
 ---
 
