@@ -16,25 +16,24 @@ My work combines scientific knowledge with principles of graphic design, visual 
 
 ### Selected work
 
+<a href="/files/GroupPublicity.pdf">
+  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="200">
+</a>
+
+#### Research Landscape Infographic
+Designed a large-format infographic showcasing the different research areas of the PhD laboratory, with QR codes linking each topic to the corresponding scientific publications. The display was installed in the university’s main hall to introduce the group’s research to prospective students.
+
+[View PDF](/files/GroupPublicity.pdf)
+
 #### Scientific posters
 
 Selected scientific posters designed for conferences, research meetings, and academic communication.
 
 <a href="/files/GroupPublicity.pdf">
-  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="400">
+  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="250">
 </a>
 
 [View PDF](/files/GroupPublicity.pdf)
 
 ---
-
-#### Scientific Infographic
-
-<a href="/files/GroupPublicity.pdf">
-  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="200">
-</a>
-
-Infographic designed to explain a complex biological concept in an accessible way.
-
-[View PDF](/files/infographic1.pdf)
 
