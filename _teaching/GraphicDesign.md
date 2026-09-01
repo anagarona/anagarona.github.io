@@ -17,7 +17,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 ### Selected work
 
 <a href="/files/GroupPublicity.pdf">
-  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="200">
+  <img src="/images/GMG_Bioturm.png" alt="Scientific Poster" width="250">
 </a>
 
 #### Research Landscape Infographic
