@@ -21,7 +21,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 </a>
 
 #### Research Landscape Infographic
-Designed a large-format infographic showcasing the different research areas of the PhD laboratory, with QR codes linking each topic to the corresponding scientific publications. The display was installed in the university’s main hall to introduce the group’s research to prospective students.
+Designed a large-format infographic showcasing the different research areas of my PhD research group, with QR codes linking each topic to the corresponding scientific publications. The display was installed in the university’s main hall to introduce the group’s research to prospective students.
 
 [View PDF](/files/GroupPublicity.pdf)
 
