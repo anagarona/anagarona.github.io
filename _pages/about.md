@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Ana Garoña Delgado, PhD"
+title: "Molecular and Cell Biologist | Quantitative Biological Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Molecular and Cell Biologist | Quantitative Biological Research
 
 I am a **molecular and cell biologist** with **9+ years of research experience** spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. My research combines **experimental biology with quantitative and computational approaches**, including genomic data analysis in **Python and R**.
 
