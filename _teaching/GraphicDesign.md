@@ -15,7 +15,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 
 ### Selected work
 
-<a href="/files/Plasmid1.png">
+<a href="/files/Plasmid1.pdf">
   <img src="/images/Plasmid1.png" alt="Scientific Poster" width="200">
 </a>
 
@@ -29,14 +29,14 @@ Designed a conceptual illustration to communicate complex evolutionary processes
 #### Graphical Abstract — Multicopy Replicon Allele Dynamics
 Designed a graphical abstract to communicate a complex experimental and computational research framework, integrating *in vivo* and *in silico* approaches to study allele dynamics in plasmid and chromosomal replicons.
 
-<a href="/files/cell_cycle">
+<a href="/files/cell_cycle.pdf">
   <img src="/images/cell_cycle.png" alt="Scientific Poster" width="200">
 </a>
 
 #### Scientific Illustration — Yeast Cell Cycle
 Illustrated the yeast cell cycle to visually communicate the key stages of cell growth, DNA replication, mitosis, and cell division in a clear and accessible format.
 
-<a href="/files/evol-small">
+<a href="/files/evol-small.pdf">
   <img src="/images/evol-small.png" alt="Scientific Poster" width="200">
 </a>
 
@@ -50,7 +50,7 @@ Designed a graphical abstract illustrating an experimental evolution framework i
 #### Research Landscape Infographic
 Designed a large-format infographic showcasing the different research areas of my PhD research group, with QR codes linking each topic to the corresponding scientific publications. The display was installed in the university’s main hall to introduce the group’s research to prospective students.
 
-<a href="/files/Banner-Group">
+<a href="/files/Banner-Group.pdf">
   <img src="/images/Banner-Group.png" alt="Scientific Poster" width="200">
 </a>
 
