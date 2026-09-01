@@ -7,21 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a **molecular and cell biologist** with **9+ years of research experience** spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. My research combines **experimental biology with quantitative and computational approaches**, including genomic data analysis in **Python and R**.
+I am a **molecular and cell biologist** with **9+ years of research experience** spanning genetics, genomics, cell biology, microbiology, and evolutionary biology. I combine **experimental and computational approaches** to understand how biological systems adapt and evolve.
 
-I am interested in understanding **how biological systems adapt and evolve**, and in connecting genetic changes to **quantitative cellular and population-level phenotypes**.
 
 **Research**
 
 My [research](/cv/) has addressed questions across **cell biology, genetics, genomics, and microbial evolution**.
 
-During my **postdoctoral research** at the **Gulbenkian Institute for Molecular Medicine (GIMM)** in Lisbon, I investigated **cell size adaptation in budding yeast** using experimental evolution, genetic engineering, microscopy, flow cytometry, and genomic analysis. I combined experimental and computational approaches to investigate the **genetic basis of cellular adaptation** and stable changes in cell size.
+My research has focused on the **genetic basis of adaptation**, from **cell size evolution in budding yeast** during my postdoctoral research at GIMM in Lisbon to **plasmid inheritance and bacterial evolution** during my PhD at Kiel University and the International Max Planck Research School for Evolutionary Biology.
 
-During my **PhD** at **Kiel University** and the **International Max Planck Research School for Evolutionary Biology**, I studied **genetic drift, plasmid inheritance, and bacterial adaptation**, developing experimental approaches to investigate how plasmid dynamics can influence bacterial evolution and the spread of antibiotic resistance.
+### Research interests
 
-## More broadly, my research interests include:
-
-- **Cell size and cellular adaptation**
+- **Cellular adaptation and evolution**
 - **Experimental evolution**
 - **Genetics and genomics**
 - **Genotype–phenotype relationships**
@@ -33,12 +30,6 @@ During my **PhD** at **Kiel University** and the **International Max Planck Rese
 My research has been published in leading journals across **cell biology, genetics, microbiology, and evolutionary biology**. I am the **first author on 4 peer-reviewed papers** and author on **1 additional paper**.
 
 See my [**Publications**](/publications/) or visit my [**ORCID**](https://orcid.org/0000-0002-7300-5836) profile for a complete list.
-
-## Research approach
-
-I enjoy working at the interface between **experimental and computational biology**. My experience includes **genetic engineering and CRISPR, microscopy, flow cytometry, experimental evolution, genomic and NGS data analysis, and quantitative analysis using Python and R**.
-
-I have also collaborated with **mathematicians and physicists** on quantitative modelling and interdisciplinary research projects.
 
 ## Scientific communication
 
