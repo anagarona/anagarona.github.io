@@ -1,7 +1,8 @@
 ---
-title: "Scientific Communication & Visual Design"
+title: "Scientific graphic design"
 collection: teaching
-type: "Scientific communication and graphic design"
+type: "Collection of visual material"
+venue: ""
 permalink: /teaching/GraphicDesign
 ---
 
