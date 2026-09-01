@@ -12,7 +12,7 @@ I am a **molecular and cell biologist** with **9+ years of research experience**
 
 **Research**
 
-My [research](/cv/) has addressed questions across **cell biology, genetics, genomics, and microbial evolution**.
+My [research](/cv/) has addressed questions across **cell biology, genetics, genomics, and microbial evolution**. Mainly:
 
 - **Cellular adaptation and evolution**
 - **Experimental evolution**
