@@ -11,8 +11,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 
 ### Software
 
-- **Adobe Illustrator** — scientific illustrations, vector graphics, figures, diagrams, and graphical abstracts
-- **Inkscape** — vector graphics, scientific figures, diagrams, and illustrations
+ **Adobe Illustrator** & **Inkscape** — vector graphics, scientific figures, diagrams, and illustrations
 
 ### Selected work
 
