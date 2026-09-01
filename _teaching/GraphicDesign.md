@@ -15,7 +15,7 @@ My work combines scientific knowledge with principles of graphic design, visual 
 
 ### Selected work
 
-<a href="/files/Plasmid1">
+<a href="/files/Plasmid1.png">
   <img src="/images/Plasmid1.png" alt="Scientific Poster" width="200">
 </a>
 
