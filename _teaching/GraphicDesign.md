@@ -25,7 +25,7 @@ Selected scientific posters designed for conferences, research meetings, and aca
 
 Scientific poster designed to communicate research findings clearly and visually.
 
-[View PDF](/files/poster1.pdf)
+[View PDF](/files/GroupPublicity.pdf)
 
 ---
 
